@@ -229,7 +229,7 @@ html{
 }
 .col-md-4 > .card > .card-header > img{
     width: 80%;
-    max-width: 250px;
+    max-width: 200px;
 }
 .card{
     border: none;
