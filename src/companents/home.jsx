@@ -1,7 +1,6 @@
 import React from "react"
 import { Link } from "react-router-dom"
-import './css/aos/dist/aos.css'
-import './css/style.css'
+
 
 export default function MyHome(){
 
