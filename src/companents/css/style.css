@@ -229,7 +229,7 @@ html{
 }
 .col-md-4 > .card > .card-header > img{
     width: 80%;
-    max-width: 200px;
+    height: 280px;
 }
 .card{
     border: none;
@@ -239,6 +239,8 @@ html{
     padding: 0;
     background-color: transparent;
     border-radius: 0;
+
+
 }
 .card-header > .overlay{
     position: absolute;
